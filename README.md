@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Next.js+Specialist;Modern+Web+Experiences+Creator;Always+Learning+New+Technologies!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Next.js+Specialist;TypeScript+Enthusiast;Modern+Web+Experiences+Creator;Always+Learning+New+Technologies!)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 - 🎯 **Role**: Frontend Developer
 - 💻 **Passion**: Creating beautiful, responsive web experiences
-- 🌟 **Specialty**: Modern React applications with sleek UI/UX
+- 🌟 **Specialty**: Modern React applications with TypeScript & sleek UI/UX
 - 🛠️ **Expertise**: Frontend technologies with full-stack knowledge
 - 🌱 **Learning**: Always exploring the latest in frontend development
 - ⚡ **Superpower**: Turning design mockups into pixel-perfect reality
@@ -33,6 +33,7 @@
 
 ### 🎨 Frontend Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -57,12 +58,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KareemTarek&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kkareemtarek2014&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br><br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KareemTarek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemTarek&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kkareemtarek2014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkareemtarek2014&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -70,10 +71,24 @@
 
 ## 🎯 What I Do
 
-```javascript
-const kareemTarek = {
+```typescript
+interface Developer {
+    role: string;
+    code: string[];
+    frameworks: {
+        frontend: string[];
+        styling: string[];
+        backend: string[];
+        cms: string[];
+    };
+    database: string[];
+    currentFocus: string;
+    funFact: string;
+}
+
+const kareemTarek: Developer = {
     role: "Frontend Developer",
-    code: ["JavaScript", "HTML", "CSS", "PHP"],
+    code: ["JavaScript", "TypeScript", "HTML", "CSS", "PHP"],
     frameworks: {
         frontend: ["React", "Next.js"],
         styling: ["Tailwind CSS", "Sass"],
@@ -81,7 +96,7 @@ const kareemTarek = {
         cms: ["WordPress", "Strapi"]
     },
     database: ["MySQL"],
-    currentFocus: "Building modern, responsive web applications",
+    currentFocus: "Building modern, type-safe web applications",
     funFact: "I love turning coffee into beautiful user interfaces! ☕➡️💻"
 };
 ```
@@ -92,7 +107,7 @@ const kareemTarek = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KareemTarek&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kkareemtarek2014&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -102,7 +117,7 @@ const kareemTarek = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KareemTarek&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kkareemtarek2014&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)
 
 </div>
 
@@ -123,7 +138,7 @@ const kareemTarek = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=KareemTarek&style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=kkareemtarek2014&style=for-the-badge&color=blueviolet)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
