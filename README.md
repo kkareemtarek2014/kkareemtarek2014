@@ -54,25 +54,21 @@
 
 ---
 
-## 📊 Complete GitHub Journey
+## 📊 GitHub Journey
 
 <div align="center">
 
 ### 🔥 Contribution Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkareemtarek2014&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-### 📈 Comprehensive Stats
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kkareemtarek2014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show_owner=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkareemtarek2014&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=445&langs_count=8" alt="Top Languages" />
+### 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=kkareemtarek2014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show_owner=true" alt="GitHub Stats" />
 
-### 🌟 All Contributions (Including Organizations)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kkareemtarek2014&bg_color=1a1b27&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-
-### 📊 Profile Summary Cards
+### 📊 Profile Summary
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkareemtarek2014&theme=tokyonight" alt="Profile Summary" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kkareemtarek2014&theme=tokyonight" alt="Repos Per Language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kkareemtarek2014&theme=tokyonight" alt="Productive Time" />
+### ⏰ Productive Time
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kkareemtarek2014&theme=tokyonight" alt="Productive Time" />
 
 </div>
 
