@@ -62,44 +62,10 @@
 
 <br><br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kkareemtarek2014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkareemtarek2014&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kkareemtarek2014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkareemtarek2014&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=445" alt="Top Languages" />
 
 </div>
-
----
-
-## 🎯 What I Do
-
-```typescript
-interface Developer {
-    role: string;
-    code: string[];
-    frameworks: {
-        frontend: string[];
-        styling: string[];
-        backend: string[];
-        cms: string[];
-    };
-    database: string[];
-    currentFocus: string;
-    funFact: string;
-}
-
-const kareemTarek: Developer = {
-    role: "Frontend Developer",
-    code: ["JavaScript", "TypeScript", "HTML", "CSS", "PHP"],
-    frameworks: {
-        frontend: ["React", "Next.js"],
-        styling: ["Tailwind CSS", "Sass"],
-        backend: ["Laravel", "Livewire"],
-        cms: ["WordPress", "Strapi"]
-    },
-    database: ["MySQL"],
-    currentFocus: "Building modern, type-safe web applications",
-    funFact: "I love turning coffee into beautiful user interfaces! ☕➡️💻"
-};
-```
 
 ---
 
@@ -108,16 +74,6 @@ const kareemTarek: Developer = {
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kkareemtarek2014&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🔥 Recent Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kkareemtarek2014&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)
 
 </div>
 
