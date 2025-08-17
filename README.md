@@ -54,16 +54,25 @@
 
 ---
 
-## 📊 GitHub Journey
+## 📊 Complete GitHub Journey
 
 <div align="center">
 
+### 🔥 Contribution Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkareemtarek2014&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<br><br>
+### 📈 Comprehensive Stats
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kkareemtarek2014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show_owner=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkareemtarek2014&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=445&langs_count=8" alt="Top Languages" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kkareemtarek2014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkareemtarek2014&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=445" alt="Top Languages" />
+### 🌟 All Contributions (Including Organizations)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kkareemtarek2014&bg_color=1a1b27&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+
+### 📊 Profile Summary Cards
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkareemtarek2014&theme=tokyonight" alt="Profile Summary" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kkareemtarek2014&theme=tokyonight" alt="Repos Per Language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kkareemtarek2014&theme=tokyonight" alt="Productive Time" />
 
 </div>
 
@@ -79,14 +88,12 @@
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kareem-tarek)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kareem-tarek.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareem.tarek.dev@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kareem_tarek_dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-tarek123)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KKAREEMTAREK2@GMAIL.COM)
 
 </div>
 
