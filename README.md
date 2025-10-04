@@ -8,7 +8,6 @@
   <a href="https://www.linkedin.com/in/kareem-tarek123"><img src="https://img.shields.io/badge/-Kareem%20Tarek-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:KKAREEMTAREK2@GMAIL.COM"><img src="https://img.shields.io/badge/-kkareemtarek2@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/-Frontend%20Developer-FF6B6B?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Automation%20Expert-00D9FF?style=flat&logo=n8n&logoColor=white"/>
   <img src="https://komarev.com/ghpvc/?username=kkareemtarek2014&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
