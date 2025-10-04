@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Kareem%20Tarek&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20Automation%20Specialist%20|%20AI%20Integration%20Expert&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Kareem%20Tarek&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20&descAlignY=55&descAlign=50" />
 
 <!-- Profile badges -->
 <p align="center">
