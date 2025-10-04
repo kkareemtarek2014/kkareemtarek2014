@@ -222,32 +222,7 @@ I specialize in **N8N automation** and creating **AI-powered tools** that make w
   <img src="https://github-profile-trophy.vercel.app/?username=kkareemtarek2014&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
 </p>
 
-<!-- Skills Progress -->
-<h2 align="center">💪 Technical Proficiency</h2>
 
-<div align="center">
-  
-| Technology | Proficiency | Experience |
-|:-----------|:------------|:-----------|
-| **React/Next.js** | ![95%](https://progress-bar.dev/95?title=Expert&width=120) | 3+ years |
-| **N8N Automation** | ![90%](https://progress-bar.dev/90?title=Advanced&width=120) | 2+ years |
-| **TypeScript** | ![90%](https://progress-bar.dev/90?title=Advanced&width=120) | 3+ years |
-| **JavaScript** | ![95%](https://progress-bar.dev/95?title=Expert&width=120) | 3+ years |
-| **AI Integration** | ![85%](https://progress-bar.dev/85?title=Advanced&width=120) | Learning |
-| **Tailwind CSS** | ![90%](https://progress-bar.dev/90?title=Advanced&width=120) | 3+ years |
-| **Laravel** | ![80%](https://progress-bar.dev/80?title=Proficient&width=120) | 2+ years |
-| **UI/UX Design** | ![85%](https://progress-bar.dev/85?title=Advanced&width=120) | 3+ years |
-
-</div>
-
-<!-- Recent Projects -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/kkareemtarek2014">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kkareemtarek2014&repo=kkareemtarek2014&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff" />
-  </a>
-</p>
 
 <!-- Current Focus -->
 <h2 align="center">🎯 Current Focus & Learning Path</h2>
