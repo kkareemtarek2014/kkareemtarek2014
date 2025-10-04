@@ -1,20 +1,21 @@
 <div align="center">
 
 <!-- Animated Header with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Kareem%20Tarek&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20React%20Specialist%20|%20UI/UX%20Enthusiast&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Kareem%20Tarek&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20Automation%20Specialist%20|%20AI%20Integration%20Expert&descAlignY=55&descAlign=50" />
 
 <!-- Profile badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/kareem-tarek123"><img src="https://img.shields.io/badge/-Kareem%20Tarek-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:KKAREEMTAREK2@GMAIL.COM"><img src="https://img.shields.io/badge/-kkareemtarek2@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/-Frontend%20Developer-FF6B6B?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Automation%20Expert-00D9FF?style=flat&logo=n8n&logoColor=white"/>
   <img src="https://komarev.com/ghpvc/?username=kkareemtarek2014&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <!-- Animated Typing -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer+with+3%2B+years;React+%26+Next.js+Expert;Building+Amazing+Web+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=800&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer+with+3%2B+years;N8N+Automation+Specialist;AI-Powered+Web+Solutions;Building+Smart+Business+Tools" alt="Typing SVG" />
   </a>
 </p>
 
@@ -39,19 +40,26 @@ interface Developer {
   location: string;
   specialties: string[];
   currentlyLearning: string;
+  expertise: string[];
 }
 
 const kareemTarek: Developer = {
   name: "Kareem Tarek",
-  role: "Frontend Developer",
+  role: "Frontend Developer & Automation Specialist",
   location: "Egypt 🇪🇬",
   specialties: [
     "⚛️ React & Next.js Applications",
+    "🤖 N8N Workflow Automation",
     "🎨 Responsive UI/UX Design",
-    "📱 Progressive Web Apps",
-    "🚀 Performance Optimization"
+    "🧠 AI-Powered Web Solutions",
+    "📱 Progressive Web Apps"
   ],
-  currentlyLearning: "Web3 & Blockchain"
+  currentlyLearning: "AI Integration & Smart Tools",
+  expertise: [
+    "Building automated workflows",
+    "Integrating AI into websites",
+    "Creating intelligent business tools"
+  ]
 };
 ```
 
@@ -63,6 +71,54 @@ const kareemTarek: Developer = {
 </td>
 </tr>
 </table>
+
+<!-- New Specialization Section -->
+<h2 align="center">🎯 Current Specialization</h2>
+
+<div align="center">
+
+### 🤖 Automation & AI Integration
+
+I specialize in **N8N automation** and creating **AI-powered tools** that make websites smarter and businesses more efficient!
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🔧 What I Do:
+- ⚡ **N8N Automation Workflows**
+  - Custom business process automation
+  - API integrations & data synchronization
+  - Automated notifications & alerts
+  
+- 🧠 **AI-Powered Features**
+  - Smart chatbots & assistants
+  - Content generation tools
+  - Intelligent data processing
+  
+- 🎨 **Business Solutions**
+  - Easy-to-use admin panels
+  - Automated reporting systems
+  - Smart form processing
+
+</td>
+<td width="50%">
+
+#### 📚 Currently Learning:
+- 🤖 Advanced AI integration techniques
+- 🌐 Building AI-enhanced websites
+- 🛠️ Creating smart business tools
+- 🔗 Connecting AI APIs to frontend
+- 📊 AI-powered analytics dashboards
+
+#### 💡 My Goal:
+> Making complex business logic simple and accessible through intelligent automation and AI-powered tools
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <!-- Quick Stats Overview -->
 <h2 align="center">📊 Quick Stats Overview</h2>
@@ -93,6 +149,19 @@ const kareemTarek: Developer = {
 </details>
 
 <details open>
+<summary><b>🤖 Automation & AI</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webhooks-2C2D72?style=for-the-badge&logo=webhook&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Integration-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
+</p>
+</details>
+
+<details open>
 <summary><b>⚙️ Backend & Database</b></summary>
 <br>
 <p align="center">
@@ -115,6 +184,7 @@ const kareemTarek: Developer = {
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 </details>
 
@@ -160,9 +230,11 @@ const kareemTarek: Developer = {
 | Technology | Proficiency | Experience |
 |:-----------|:------------|:-----------|
 | **React/Next.js** | ![95%](https://progress-bar.dev/95?title=Expert&width=120) | 3+ years |
-| **TypeScript** | ![90%](https://progress-bar.dev/90?title=Advanced&width=120) | 2+ years |
-| **JavaScript** | ![95%](https://progress-bar.dev/95?title=Expert&width=120) | 4+ years |
-| **Tailwind CSS** | ![90%](https://progress-bar.dev/90?title=Advanced&width=120) | 2+ years |
+| **N8N Automation** | ![90%](https://progress-bar.dev/90?title=Advanced&width=120) | 2+ years |
+| **TypeScript** | ![90%](https://progress-bar.dev/90?title=Advanced&width=120) | 3+ years |
+| **JavaScript** | ![95%](https://progress-bar.dev/95?title=Expert&width=120) | 3+ years |
+| **AI Integration** | ![85%](https://progress-bar.dev/85?title=Advanced&width=120) | Learning |
+| **Tailwind CSS** | ![90%](https://progress-bar.dev/90?title=Advanced&width=120) | 3+ years |
 | **Laravel** | ![80%](https://progress-bar.dev/80?title=Proficient&width=120) | 2+ years |
 | **UI/UX Design** | ![85%](https://progress-bar.dev/85?title=Advanced&width=120) | 3+ years |
 
@@ -178,28 +250,65 @@ const kareemTarek: Developer = {
 </p>
 
 <!-- Current Focus -->
-<h2 align="center">🎯 Current Focus</h2>
+<h2 align="center">🎯 Current Focus & Learning Path</h2>
 
 <div align="center">
 
 ```mermaid
 graph LR
-    A[Current Learning] --> B[Advanced React Patterns]
-    A --> C[Web3 Technologies]
-    A --> D[System Design]
-    B --> E[Custom Hooks]
-    B --> F[Performance Optimization]
-    C --> G[Smart Contracts]
-    C --> H[DApps Development]
+    A[Current Focus] --> B[AI Integration]
+    A --> C[N8N Automation]
+    A --> D[Smart Business Tools]
+    B --> E[OpenAI APIs]
+    B --> F[AI Chatbots]
+    B --> G[Content Generation]
+    C --> H[Workflow Automation]
+    C --> I[API Integration]
+    D --> J[Admin Panels]
+    D --> K[Automated Systems]
 ```
 
 </div>
 
+<!-- What I'm Building -->
+<h2 align="center">🛠️ What I'm Building</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🤖 AI Tools
+Smart features that make websites intelligent and user-friendly
+
+</td>
+<td width="33%" align="center">
+
+### ⚡ Automation Workflows
+N8N workflows that simplify complex business processes
+
+</td>
+<td width="33%" align="center">
+
+### 🎨 Business Solutions
+Easy-to-use tools that handle any business logic efficiently
+
+</td>
+</tr>
+</table>
+
+</div>
+
 <!-- Quote -->
-<h2 align="center">💡 Inspiration</h2>
+<h2 align="center">💡 Philosophy</h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
+
+<p align="center">
+  <i>"Making technology work for businesses, not the other way around"</i>
 </p>
 
 <!-- Connect Section -->
@@ -208,7 +317,8 @@ graph LR
 <div align="center">
   
   <p>
-    <i>I'm always excited to collaborate on innovative projects and connect with fellow developers!</i>
+    <i>Looking to automate your business or add AI-powered features to your website?</i><br>
+    <i>Let's collaborate and build something amazing together!</i>
   </p>
   
   <a href="https://www.linkedin.com/in/kareem-tarek123">
@@ -223,20 +333,10 @@ graph LR
   
   <br><br>
   
-  <img src="https://img.shields.io/badge/Open_to_Work-Available_for_Opportunities-2ECC40?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_to_Work-Available_for_Projects-2ECC40?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation_Expert-N8N_Specialist-EA4B71?style=for-the-badge" />
   
 </div>
-
-<!-- Support -->
-<h2 align="center">☕ Support</h2>
-
-<p align="center">
-  <i>If you find my work valuable, consider showing your support!</i>
-  <br><br>
-  <a href="https://www.buymeacoffee.com/kareemtarek">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=kareemtarek&button_colour=FF6B6B&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" />
-  </a>
-</p>
 
 <!-- Footer -->
 <p align="center">
@@ -244,11 +344,11 @@ graph LR
 </p>
 
 <h3 align="center">
-  <i>⭐ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  <i>⚡ "Automation is not about replacing humans, it's about empowering them"</i>
 </h3>
 
 <p align="center">
-  <i>Made with ❤️ by <b>Kareem Tarek</b></i>
+  <i>Made with ❤️ and automated with 🤖 by <b>Kareem Tarek</b></i>
   <br>
   <i>© 2024 All rights reserved</i>
 </p>
