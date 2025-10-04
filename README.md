@@ -41,12 +41,7 @@ interface Developer {
   currentlyLearning: string;
 }
 
-const kareemTarek: Developer = {
-  name: "Kareem Tarek",
-  role: "Frontend Developer",
-  location: "Egypt 🇪🇬",
-  specialties: [
-    "⚛️ React & Next.js Applications",
+️ React & Next.js Applications",
     "🎨 Responsive UI/UX Design",
     "📱 Progressive Web Apps",
     "🚀 Performance Optimization"
@@ -105,14 +100,7 @@ const kareemTarek: Developer = {
 </p>
 </details>
 
-<details open>
-<summary><b>🛠️ Tools & Platforms</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
@@ -160,9 +148,9 @@ const kareemTarek: Developer = {
 | Technology | Proficiency | Experience |
 |:-----------|:------------|:-----------|
 | **React/Next.js** | ![95%](https://progress-bar.dev/95?title=Expert&width=120) | 3+ years |
-| **TypeScript** | ![90%](https://progress-bar.dev/90?title=Advanced&width=120) | 3+ years |
-| **JavaScript** | ![95%](https://progress-bar.dev/95?title=Expert&width=120) | 3+ years |
-| **Tailwind CSS** | ![90%](https://progress-bar.dev/90?title=Advanced&width=120) | 3+ years |
+| **TypeScript** | ![90%](https://progress-bar.dev/90?title=Advanced&width=120) | 2+ years |
+| **JavaScript** | ![95%](https://progress-bar.dev/95?title=Expert&width=120) | 4+ years |
+| **Tailwind CSS** | ![90%](https://progress-bar.dev/90?title=Advanced&width=120) | 2+ years |
 | **Laravel** | ![80%](https://progress-bar.dev/80?title=Proficient&width=120) | 2+ years |
 | **UI/UX Design** | ![85%](https://progress-bar.dev/85?title=Advanced&width=120) | 3+ years |
 
