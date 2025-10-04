@@ -41,7 +41,12 @@ interface Developer {
   currentlyLearning: string;
 }
 
-️ React & Next.js Applications",
+const kareemTarek: Developer = {
+  name: "Kareem Tarek",
+  role: "Frontend Developer",
+  location: "Egypt 🇪🇬",
+  specialties: [
+    "⚛️ React & Next.js Applications",
     "🎨 Responsive UI/UX Design",
     "📱 Progressive Web Apps",
     "🚀 Performance Optimization"
@@ -100,7 +105,14 @@ interface Developer {
 </p>
 </details>
 
-io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<details open>
+<summary><b>🛠️ Tools & Platforms</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
