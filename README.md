@@ -1,328 +1,177 @@
 <div align="center">
 
-<!-- Animated Header with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Kareem%20Tarek&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20&descAlignY=55&descAlign=50" />
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
 
-<!-- Profile badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/kareem-tarek123"><img src="https://img.shields.io/badge/-Kareem%20Tarek-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:KKAREEMTAREK2@GMAIL.COM"><img src="https://img.shields.io/badge/-kkareemtarek2@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/-Frontend%20Developer-FF6B6B?style=flat&logo=react&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=kkareemtarek2014&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=KAREEM%20TAREK&fontSize=80&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=The%20Builder%20of%20Websites&descAlignY=58&descSize=24&descAlign=50" width="100%"/>
 
-<!-- Animated Typing -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=800&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer+with+3%2B+years;N8N+Automation+Specialist;AI-Powered+Web+Solutions;Building+Smart+Business+Tools" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=21+live+production+websites+%F0%9F%9A%80;3.5%2B+years+of+React+%C2%B7+Next.js+%C2%B7+TypeScript;Figma+%E2%86%92+pixel-perfect+code+%E2%86%92+deployed;AI-accelerated.+Experience-backed.;From+Cairo+to+Canada+%F0%9F%8C%8D" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://my-profile.kkareemtarek2.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-my--profile.kkareemtarek2.workers.dev-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b27"/></a>
+<a href="https://www.linkedin.com/in/kareem-tarek123"><img src="https://img.shields.io/badge/LinkedIn-Kareem_Tarek-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27"/></a>
+<a href="mailto:kkareemtarek2@gmail.com"><img src="https://img.shields.io/badge/Email-kkareemtarek2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27"/></a>
+<a href="https://wa.me/201090313619"><img src="https://img.shields.io/badge/WhatsApp-Fastest_reply-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1b27"/></a>
+
+<img src="https://img.shields.io/badge/⚡_OPEN_TO-Full--time_·_Part--time_·_Freelance-2ECC40?style=for-the-badge&labelColor=1a1b27"/>
 
 </div>
 
-<!-- Gradient Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- About Me Section -->
-<table align="center">
-<tr>
-<td width="50%">
+<!-- ═══════════════════════ PITCH ═══════════════════════ -->
 
-## 🚀 About Me
+## ⚡ The 10-Second Pitch
+
+> **They call me "the builder of websites."** I take a Figma file and turn it into something fast, alive, and pixel-perfect — e-commerce, booking platforms, marketplaces, corporate sites. From Cairo to Canada, if it needs to feel expensive, **I build it.**
+
+<div align="center">
+
+| 🌐 **21** | 🗓️ **3.5+** | 🌍 **2** | 🎯 **∞** |
+|:---:|:---:|:---:|:---:|
+| live production websites | years of experience | countries shipped to | pixels obsessed over |
+
+</div>
+
+You've probably used something I built without knowing it — the websites of **Mountain View**, **El Gouna**, **MG Motor Egypt**, **Go Bus**, and **Abu Auf** all came through my keyboard.
+
+<!-- ═══════════════════════ AI EDGE ═══════════════════════ -->
+
+## 🧠 Why I'm Different: AI Speed × Real Experience
+
+Most developers fall into one of two camps. I'm the third.
 
 ```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  specialties: string[];
-  currentlyLearning: string;
-  expertise: string[];
-}
+const marketToday = {
+  juniors_with_AI:  "Ship fast, but can't tell 'looks done' from 'is done'",
+  seniors_without:  "Deep knowledge, but ship at 2021 speed",
 
-const kareemTarek: Developer = {
-  name: "Kareem Tarek",
-  role: "Frontend Developer & Automation Specialist",
-  location: "Egypt 🇪🇬",
-  specialties: [
-    "⚛️ React & Next.js Applications",
-    "🤖 N8N Workflow Automation",
-    "🎨 Responsive UI/UX Design",
-    "🧠 AI-Powered Web Solutions",
-    "📱 Progressive Web Apps"
-  ],
-  currentlyLearning: "AI Integration & Smart Tools",
-  expertise: [
-    "Building automated workflows",
-    "Integrating AI into websites",
-    "Creating intelligent business tools"
-  ]
-};
+  kareem: {
+    foundation: "3.5+ years hand-writing production frontend — BEFORE AI wrote its first <div>",
+    today:      "AI-powered workflow: I ship in days what used to take weeks",
+    the_edge:   "When AI output breaks at 2am, I know exactly WHY — and how to fix it",
+  },
+} as const;
 ```
 
-</td>
-<td width="50%">
+I use AI daily as a **power tool, not a crutch** — grounded in a knowledge base built the hard way: architecture decisions, performance budgets, accessibility, SEO structure, security, and browser quirks. That's what turns AI speed into production quality.
 
-<img alt="Coding GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
+<!-- ═══════════════════════ BUILDER ═══════════════════════ -->
 
-</td>
-</tr>
-</table>
+## 🏗️ One Person, Full Pipeline
 
-<!-- New Specialization Section -->
-<h2 align="center">🎯 Current Specialization</h2>
-
-<div align="center">
-
-### 🤖 Automation & AI Integration
-
-I specialize in **N8N automation** and creating **AI-powered tools** that make websites smarter and businesses more efficient!
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🔧 What I Do:
-- ⚡ **N8N Automation Workflows**
-  - Custom business process automation
-  - API integrations & data synchronization
-  - Automated notifications & alerts
-  
-- 🧠 **AI-Powered Features**
-  - Smart chatbots & assistants
-  - Content generation tools
-  - Intelligent data processing
-  
-- 🎨 **Business Solutions**
-  - Easy-to-use admin panels
-  - Automated reporting systems
-  - Smart form processing
-
-</td>
-<td width="50%">
-
-#### 📚 Currently Learning:
-- 🤖 Advanced AI integration techniques
-- 🌐 Building AI-enhanced websites
-- 🛠️ Creating smart business tools
-- 🔗 Connecting AI APIs to frontend
-- 📊 AI-powered analytics dashboards
-
-#### 💡 My Goal:
-> Making complex business logic simple and accessible through intelligent automation and AI-powered tools
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Quick Stats Overview -->
-<h2 align="center">📊 Quick Stats Overview</h2>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kkareemtarek2014&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=kkareemtarek2014&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00D9FF&ring=FF6B6B&fire=FFA500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" alt="Streak Stats" />
-</p>
-
-<!-- Languages & Tools Section -->
-<h2 align="center">💻 Technologies & Tools</h2>
-
-<details open>
-<summary><b>🎨 Frontend Technologies</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🤖 Automation & AI</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webhooks-2C2D72?style=for-the-badge&logo=webhook&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Integration-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & Database</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🛠️ Tools & Platforms</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-</details>
-
-<!-- GitHub Activity Graph -->
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkareemtarek2014&theme=react-dark&hide_border=true&bg_color=1a1b27&color=00D9FF&line=FF6B6B&point=FFA500&area=true" width="100%" alt="Activity Graph" />
-</p>
-
-<!-- Language Stats -->
-<h2 align="center">📊 Language Statistics</h2>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkareemtarek2014&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&text_color=ffffff&langs_count=10" alt="Top Languages" />
-</p>
-
-<!-- Profile Summary Cards -->
-<h2 align="center">💳 GitHub Profile Summary</h2>
-
-<p align="center">
-  <img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkareemtarek2014&theme=tokyonight" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kkareemtarek2014&theme=tokyonight" alt="Repos per Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kkareemtarek2014&theme=tokyonight" alt="Most Commit Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kkareemtarek2014&theme=tokyonight&utcOffset=2" alt="Productive Time" />
-</p>
-
-<!-- Trophies -->
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kkareemtarek2014&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
-</p>
-
-
-
-<!-- Current Focus -->
-<h2 align="center">🎯 Current Focus & Learning Path</h2>
-
-<div align="center">
+I don't just write components — **I build entire websites myself, end to end**, and learn something new every single day.
 
 ```mermaid
 graph LR
-    A[Current Focus] --> B[AI Integration]
-    A --> C[N8N Automation]
-    A --> D[Smart Business Tools]
-    B --> E[OpenAI APIs]
-    B --> F[AI Chatbots]
-    B --> G[Content Generation]
-    C --> H[Workflow Automation]
-    C --> I[API Integration]
-    D --> J[Admin Panels]
-    D --> K[Automated Systems]
+    A["🎨 Figma<br/>UI/UX Design"] --> B["⚛️ Frontend<br/>React · Next.js · TS"]
+    B --> C["🗄️ Backend/CMS<br/>Strapi · REST APIs"]
+    C --> D["☁️ Deploy<br/>Cloudflare · CI/CD"]
+    D --> E["🤖 Automate<br/>n8n · AI features"]
+    E --> F["📈 Grow<br/>SEO · Performance"]
 ```
 
+<div align="center">
+
+| 🎨 Design | ⚛️ Build | 🚀 Ship | 🤖 Automate |
+|:---|:---|:---|:---|
+| UI/UX from scratch in Figma — wireframes, design systems, prototypes | Pixel-perfect, multilingual (AR/EN), SEO-ready frontends | Server setup, Cloudflare, CloudPanel, CI/CD — I handle launch myself | n8n workflows, AI chatbots, smart business tools |
+
 </div>
 
-<!-- What I'm Building -->
-<h2 align="center">🛠️ What I'm Building</h2>
+<!-- ═══════════════════════ WORK ═══════════════════════ -->
+
+## 🏆 Selected Live Work
+
+Every single one is **live in production right now** — click and see.
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%" align="center">
+| Brand | What It Is | Scale |
+|:---|:---|:---|
+| 🏝️ [**El Gouna**](https://www.elgouna.com/) | Orascom's Red Sea destination platform — hotels, events, real estate | Multilingual · multi-currency |
+| 🏙️ [**Mountain View**](https://www.mountainviewegypt.com/) | Corporate platform for one of Egypt's largest real-estate developers | 23+ luxury communities |
+| 🚌 [**Go Bus**](https://go-bus.com/?lang=en) | Booking platform for Egypt's largest intercity bus operator | Trip search + seat reservation |
+| 🚗 [**MG Motor Egypt**](https://www.mgmotor.com.eg/) | Official MG cars website — model showcases, comparison tool | Video-driven experience |
+| ☕ [**Abu Auf**](https://www.abuauf.com/) | E-commerce for Egypt's leading coffee & healthy-foods brand | 175+ branches |
+| 🍰 [**Salé Sucré**](https://www.salesucre.com/) | Luxury patisserie e-commerce with custom cake ordering | 40+ branches · delivery zones |
+| 🍬 [**Koueider**](https://www.koueider.com/) | Bilingual e-commerce for the historic sweets brand | Est. 1930 · 30+ branches |
+| 🇨🇦 [**BizGenie**](https://bizgenie.ca/) | Canadian freelance marketplace — listings, talent search, courses | Full client/freelancer flows |
+| 🚘 [**Ecral**](https://www.ecral.com/) | Car rental & chauffeur booking platform | AR/EN · corporate services |
+| 🥐 [**La Poire Group**](https://lapoire-group.com/) | Corporate site for the F&B group behind La Poire & Beano's | Brand + franchising |
 
-### 🤖 AI Tools
-Smart features that make websites intelligent and user-friendly
-
-</td>
-<td width="33%" align="center">
-
-### ⚡ Automation Workflows
-N8N workflows that simplify complex business processes
-
-</td>
-<td width="33%" align="center">
-
-### 🎨 Business Solutions
-Easy-to-use tools that handle any business logic efficiently
-
-</td>
-</tr>
-</table>
+**➕ 11 more live sites** — [see the full portfolio ↗](https://my-profile.kkareemtarek2.workers.dev/#work)
 
 </div>
 
-<!-- Quote -->
-<h2 align="center">💡 Philosophy</h2>
+<!-- ═══════════════════════ STACK ═══════════════════════ -->
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
-
-<p align="center">
-  <i>"Making technology work for businesses, not the other way around"</i>
-</p>
-
-<!-- Connect Section -->
-<h2 align="center">🤝 Let's Connect!</h2>
+## 🛠️ The Arsenal
 
 <div align="center">
-  
-  <p>
-    <i>Looking to automate your business or add AI-powered features to your website?</i><br>
-    <i>Let's collaborate and build something amazing together!</i>
-  </p>
-  
-  <a href="https://www.linkedin.com/in/kareem-tarek123">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:KKAREEMTAREK2@GMAIL.COM">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/kkareemtarek2014">
-    <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/Open_to_Work-Available_for_Projects-2ECC40?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation_Expert-N8N_Specialist-EA4B71?style=for-the-badge" />
-  
+
+**Core — used in production every day**
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+
+**Design → Backend → Deploy**
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+**Automation & AI**
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/AI--Assisted_Dev-00D9FF?style=for-the-badge&logo=githubcopilot&logoColor=black"/> <img src="https://img.shields.io/badge/Webhooks-2C2D72?style=for-the-badge&logo=webhook&logoColor=white"/>
+
 </div>
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" />
-</p>
+<!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
 
-<h3 align="center">
-  <i>⚡ "Automation is not about replacing humans, it's about empowering them"</i>
-</h3>
+## 💼 Where I Build
 
-<p align="center">
-  <i>Made with ❤️ and automated with 🤖 by <b>Kareem Tarek</b></i>
-  <br>
-  <i>© 2024 All rights reserved</i>
-</p>
+| | Role | Highlights |
+|:---|:---|:---|
+| 🏢 | **[MitchDesigns](https://www.mitchdesigns.com/)** — Frontend Developer *(Full-time, 2023–now)* | Core frontend dev at one of Egypt's leading web agencies — 15+ live sites for major brands |
+| 🌐 | **[CRUX International](https://cruxafc.com/)** — Frontend Developer *(Part-time, 2025–now)* | Built the corporate site end-to-end + BizGenie, a Canadian marketplace platform |
+| 🚀 | **Freelance** *(2023–now)* | Full lifecycle ownership: Figma → build → CMS → hosting → launch, for clients in Egypt & abroad |
+
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
+
+## 📊 GitHub Pulse
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kkareemtarek2014&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&count_private=true" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=kkareemtarek2014&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00D9FF&ring=FF6B6B&fire=FFA500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" alt="Streak Stats" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kkareemtarek2014&theme=react-dark&hide_border=true&bg_color=1a1b27&color=00D9FF&line=FF6B6B&point=FFA500&area=true" width="97%" alt="Activity Graph" />
+
+</div>
+
+<!-- ═══════════════════════ HIRE ═══════════════════════ -->
+
+## 🤝 Hiring? Here's Why It's Me
+
+- 🎯 **Proof, not promises** — 21 live production websites you can click right now, built for brands people actually know.
+- ⚡ **Speed with a safety net** — AI-accelerated delivery on top of 3.5+ years of hard-earned frontend depth.
+- 🧩 **One accountable person** — design, frontend, backend, deployment, automation. No hand-offs, no gaps.
+- 📈 **Business-first mindset** — every build targets one goal: make your brand bigger and your business more profitable.
+- 📚 **Never standing still** — I learn something new every day and put it into production the next.
+
+<div align="center">
+
+### Let's build something great.
+
+<a href="https://my-profile.kkareemtarek2.workers.dev/contact"><img src="https://img.shields.io/badge/🚀_Start_a_Project-Get_a_plan,_timeline_&_price-00D9FF?style=for-the-badge&labelColor=1a1b27"/></a>
+<a href="https://wa.me/201090313619"><img src="https://img.shields.io/badge/💬_WhatsApp-+20_109_031_3619-25D366?style=for-the-badge&labelColor=1a1b27"/></a>
+
+*Full-time / part-time: available after a 1-month notice period · Freelance: can start right away*
+
+<img src="https://komarev.com/ghpvc/?username=kkareemtarek2014&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
+
+**build. animate. ship. repeat.**
+
+</div>
