@@ -81,31 +81,6 @@ graph LR
 
 </div>
 
-<!-- ═══════════════════════ WORK ═══════════════════════ -->
-
-## 🏆 Selected Live Work
-
-Every single one is **live in production right now** — click and see.
-
-<div align="center">
-
-| Brand | What It Is | Scale |
-|:---|:---|:---|
-| 🏝️ [**El Gouna**](https://www.elgouna.com/) | Orascom's Red Sea destination platform — hotels, events, real estate | Multilingual · multi-currency |
-| 🏙️ [**Mountain View**](https://www.mountainviewegypt.com/) | Corporate platform for one of Egypt's largest real-estate developers | 23+ luxury communities |
-| 🚌 [**Go Bus**](https://go-bus.com/?lang=en) | Booking platform for Egypt's largest intercity bus operator | Trip search + seat reservation |
-| 🚗 [**MG Motor Egypt**](https://www.mgmotor.com.eg/) | Official MG cars website — model showcases, comparison tool | Video-driven experience |
-| ☕ [**Abu Auf**](https://www.abuauf.com/) | E-commerce for Egypt's leading coffee & healthy-foods brand | 175+ branches |
-| 🍰 [**Salé Sucré**](https://www.salesucre.com/) | Luxury patisserie e-commerce with custom cake ordering | 40+ branches · delivery zones |
-| 🍬 [**Koueider**](https://www.koueider.com/) | Bilingual e-commerce for the historic sweets brand | Est. 1930 · 30+ branches |
-| 🇨🇦 [**BizGenie**](https://bizgenie.ca/) | Canadian freelance marketplace — listings, talent search, courses | Full client/freelancer flows |
-| 🚘 [**Ecral**](https://www.ecral.com/) | Car rental & chauffeur booking platform | AR/EN · corporate services |
-| 🥐 [**La Poire Group**](https://lapoire-group.com/) | Corporate site for the F&B group behind La Poire & Beano's | Brand + franchising |
-
-**➕ 11 more live sites** — [see the full portfolio ↗](https://my-profile.kkareemtarek2.workers.dev/#work)
-
-</div>
-
 <!-- ═══════════════════════ STACK ═══════════════════════ -->
 
 ## 🛠️ The Arsenal
@@ -133,7 +108,6 @@ Every single one is **live in production right now** — click and see.
 | | Role | Highlights |
 |:---|:---|:---|
 | 🏢 | **[MitchDesigns](https://www.mitchdesigns.com/)** — Frontend Developer *(Full-time, 2023–now)* | Core frontend dev at one of Egypt's leading web agencies — 15+ live sites for major brands |
-| 🌐 | **[CRUX International](https://cruxafc.com/)** — Frontend Developer *(Part-time, 2025–now)* | Built the corporate site end-to-end + BizGenie, a Canadian marketplace platform |
 | 🚀 | **Freelance** *(2023–now)* | Full lifecycle ownership: Figma → build → CMS → hosting → launch, for clients in Egypt & abroad |
 
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
@@ -146,6 +120,21 @@ Every single one is **live in production right now** — click and see.
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=kkareemtarek2014&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00D9FF&ring=FF6B6B&fire=FFA500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" alt="Streak Stats" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkareemtarek2014&theme=react-dark&hide_border=true&bg_color=1a1b27&color=00D9FF&line=FF6B6B&point=FFA500&area=true" width="97%" alt="Activity Graph" />
+
+</div>
+
+<!-- ═══════════════════════ WORK ETHIC ═══════════════════════ -->
+
+## 🔥 Built Different: The Work Ethic
+
+> While others clock out, I'm still shipping. The graphs don't lie — code gets written **every day**, at whatever hour the job needs.
+
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kkareemtarek2014&theme=tokyonight&utcOffset=2" alt="When I Code" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kkareemtarek2014&theme=tokyonight" alt="Overall Stats" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=kkareemtarek2014&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" width="97%" alt="Trophies" />
 
 </div>
 
