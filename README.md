@@ -116,8 +116,8 @@ graph LR
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kkareemtarek2014&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&count_private=true" alt="GitHub Stats" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=kkareemtarek2014&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00D9FF&ring=FF6B6B&fire=FFA500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" alt="Streak Stats" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kkareemtarek2014&theme=tokyonight" alt="Top Languages" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkareemtarek2014&theme=react-dark&hide_border=true&bg_color=1a1b27&color=00D9FF&line=FF6B6B&point=FFA500&area=true" width="97%" alt="Activity Graph" />
 
@@ -132,7 +132,7 @@ graph LR
 <div align="center">
 
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kkareemtarek2014&theme=tokyonight&utcOffset=2" alt="When I Code" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kkareemtarek2014&theme=tokyonight" alt="Overall Stats" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kkareemtarek2014&theme=tokyonight" alt="Most Commit Language" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=kkareemtarek2014&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" width="97%" alt="Trophies" />
 
