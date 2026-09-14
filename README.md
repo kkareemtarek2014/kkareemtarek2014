@@ -1,166 +1,108 @@
 <div align="center">
 
-<!-- ═══════════════════════ HERO ═══════════════════════ -->
+# Kareem Tarek
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=KAREEM%20TAREK&fontSize=80&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=The%20Builder%20of%20Websites&descAlignY=58&descSize=24&descAlign=50" width="100%"/>
+**Frontend Engineer** · React · Next.js · TypeScript  
+Nasr City, Cairo · Performance & production web apps
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=21+live+production+websites+%F0%9F%9A%80;3.5%2B+years+of+React+%C2%B7+Next.js+%C2%B7+TypeScript;Figma+%E2%86%92+pixel-perfect+code+%E2%86%92+deployed;AI-accelerated.+Experience-backed.;From+Cairo+to+Canada+%F0%9F%8C%8D" alt="Typing SVG" />
-</a>
+[Portfolio](https://my-profile.kkareemtarek2.workers.dev/) · [LinkedIn](https://www.linkedin.com/in/kareem-tarek123) · [GitHub](https://github.com/kkareemtarek2014) · [Email](mailto:kkareemtarek2@gmail.com) · [WhatsApp](https://wa.me/201090313619)
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass,nodejs,figma,git,linux,cloudflare,jest" alt="Tech stack" />
+
+</div>
 
 <br/>
 
-<a href="https://my-profile.kkareemtarek2.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-my--profile.kkareemtarek2.workers.dev-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b27"/></a>
-<a href="https://www.linkedin.com/in/kareem-tarek123"><img src="https://img.shields.io/badge/LinkedIn-Kareem_Tarek-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27"/></a>
-<a href="mailto:kkareemtarek2@gmail.com"><img src="https://img.shields.io/badge/Email-kkareemtarek2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27"/></a>
-<a href="https://wa.me/201090313619"><img src="https://img.shields.io/badge/WhatsApp-Fastest_reply-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1b27"/></a>
+Frontend engineer with **3.5+ years** shipping **21 production websites** — e-commerce, booking, marketplaces, automotive, real estate, and corporate. React, Next.js, and TypeScript. Bilingual AR/EN with full RTL. Headless CMS, REST, CI/CD, and the deploy.
 
-<img src="https://img.shields.io/badge/⚡_OPEN_TO-Full--time_·_Part--time_·_Freelance-2ECC40?style=for-the-badge&labelColor=1a1b27"/>
+Lighthouse on delivered work: **80–90 Performance** at launch, **100** on Accessibility, Best Practices, and SEO on optimized builds.
 
-</div>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## Selected work
 
-<!-- ═══════════════════════ PITCH ═══════════════════════ -->
+These are live. Open them.
 
-## ⚡ The 10-Second Pitch
+| Project | Type | What I built |
+|:--|:--|:--|
+| **[El Gouna](https://www.elgouna.com/)** | Destination platform | Hotel booking, events, and real-estate listings. AR/EN + RTL, multi-currency, Strapi. |
+| **[Go Bus](https://go-bus.com/?lang=en)** | Booking | Trip search, multi-filter logic, interactive seat map. REST layer with error/retry. Tuned for mobile networks. |
+| **[MG Motor Egypt](https://www.mgmotor.com.eg/)** | Automotive | Video-heavy UI and vehicle comparison. Deferred playback, posters, route-level splitting so media doesn't kill load. |
+| **[Mountain View](https://www.mountainviewegypt.com/)** | Real estate | CMS-driven pages for 23+ developments and lead-gen flows. Shared component system across the site. |
+| **[Abu Auf](https://www.abuauf.com/)** | E-commerce | Catalog, filters, checkout for a brand with 175+ stores. Rendering + caching for sustained traffic. |
+| **[BizGenie](https://bizgenie.ca/)** | Marketplace · Canada | Project discovery, talent search, courses, two authenticated dashboards with separate role permissions. |
 
-> **They call me "the builder of websites."** I take a Figma file and turn it into something fast, alive, and pixel-perfect — e-commerce, booking platforms, marketplaces, corporate sites. From Cairo to Canada, if it needs to feel expensive, **I build it.**
+<details>
+<summary>The other 15 — also live</summary>
+<br/>
 
-<div align="center">
+[Salé Sucré](https://www.salesucre.com/) · [Ecral](https://www.ecral.com/) · [Koueider](https://www.koueider.com/) · [La Poire Group](https://lapoire-group.com/) · [Exception](https://www.exception-group.com/) · [ASN Egypt](https://www.asnegypt.com/) · [G Developments](https://www.thegdevelopments.com/) · [Greater Cairo Foundries](https://www.gcf-eg.com/) · [MitchDesigns](https://www.mitchdesigns.com/) · [CRUX International](https://cruxafc.com/) · [Digital Choice](https://www.digitalchoice-eg.com/) · [UpStrike](https://www.upstriketech.com/) · [AnimaRise](https://www.animarise.com/) · [Zainac Solar](https://zainacsolar.com/en) · Tohama Stationery
 
-| 🌐 **21** | 🗓️ **3.5+** | 🌍 **2** | 🎯 **∞** |
-|:---:|:---:|:---:|:---:|
-| live production websites | years of experience | countries shipped to | pixels obsessed over |
+Full list with context: [my-profile.kkareemtarek2.workers.dev](https://my-profile.kkareemtarek2.workers.dev/)
 
-</div>
+</details>
 
-You've probably used something I built without knowing it — the websites of **Mountain View**, **El Gouna**, **MG Motor Egypt**, **Go Bus**, and **Abu Auf** all came through my keyboard.
+---
 
-<!-- ═══════════════════════ AI EDGE ═══════════════════════ -->
+## Experience
 
-## 🧠 Why I'm Different: AI Speed × Real Experience
+**Frontend Engineer — [MitchDesigns](https://www.mitchdesigns.com/)**  
+*Cairo, Egypt · Full-time · 2023 – Present*
 
-Most developers fall into one of two camps. I'm the third.
+Core frontend on 15+ production React/Next.js sites for Mountain View, El Gouna, MG Motor, Go Bus, Abu Auf, La Poire, and others. Strapi-backed multilingual apps, reusable component libraries, Jest + React Testing Library on critical UI, production deploys on Cloudflare and CloudPanel (Linux, SSL, DNS, CI/CD).
 
-```typescript
-const marketToday = {
-  juniors_with_AI:  "Ship fast, but can't tell 'looks done' from 'is done'",
-  seniors_without:  "Deep knowledge, but ship at 2021 speed",
+**Frontend Engineer — [CRUX International](https://cruxafc.com/)**  
+*Part-time · 2025 – Jun 2026*
 
-  kareem: {
-    foundation: "3.5+ years hand-writing production frontend — BEFORE AI wrote its first <div>",
-    today:      "AI-powered workflow: I ship in days what used to take weeks",
-    the_edge:   "When AI output breaks at 2am, I know exactly WHY — and how to fix it",
-  },
-} as const;
-```
+Built [BizGenie](https://bizgenie.ca/) (Canadian freelance marketplace) and the CRUX corporate platform in Next.js + TypeScript — consulting, financial services, and AI/software divisions.
 
-I use AI daily as a **power tool, not a crutch** — grounded in a knowledge base built the hard way: architecture decisions, performance budgets, accessibility, SEO structure, security, and browser quirks. That's what turns AI speed into production quality.
+**Frontend Engineer — Freelance**  
+*Remote · 2023 – Present*
 
-<!-- ═══════════════════════ BUILDER ═══════════════════════ -->
+Five production sites end-to-end: Digital Choice, UpStrike, AnimaRise, Zainac Solar, Tohama Stationery. Design implementation, frontend, CMS, hosting, launch.
 
-## 🏗️ One Person, Full Pipeline
+---
 
-I don't just write components — **I build entire websites myself, end to end**, and learn something new every single day.
+## Stack
 
-```mermaid
-graph LR
-    A["🎨 Figma<br/>UI/UX Design"] --> B["⚛️ Frontend<br/>React · Next.js · TS"]
-    B --> C["🗄️ Backend/CMS<br/>Strapi · REST APIs"]
-    C --> D["☁️ Deploy<br/>Cloudflare · CI/CD"]
-    D --> E["🤖 Automate<br/>n8n · AI features"]
-    E --> F["📈 Grow<br/>SEO · Performance"]
-```
+**UI** — React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Sass/SCSS, GSAP  
+**Architecture** — reusable components, Hooks / Context, SSR / SSG, REST, responsive + cross-browser  
+**Quality** — Jest, React Testing Library, Lighthouse, PageSpeed, Core Web Vitals, bundle analysis, technical SEO  
+**i18n** — Arabic / English, full RTL across layout, components, and animation  
+**CMS & APIs** — Strapi, REST, CMS-driven page architecture  
+**Ship** — Cloudflare, CloudPanel, Linux, SSL, DNS, CI/CD, Git  
+**Design** — Figma → pixel-perfect implementation  
+**Automation** — n8n, custom code, AI-assisted localization, Slack / Trello, lead and content pipelines
 
-<div align="center">
+---
 
-| 🎨 Design | ⚛️ Build | 🚀 Ship | 🤖 Automate |
-|:---|:---|:---|:---|
-| UI/UX from scratch in Figma — wireframes, design systems, prototypes | Pixel-perfect, multilingual (AR/EN), SEO-ready frontends | Server setup, Cloudflare, CloudPanel, CI/CD — I handle launch myself | n8n workflows, AI chatbots, smart business tools |
+## Internal tools I actually use
 
-</div>
+Not demos. Things that run on real projects:
 
-<!-- ═══════════════════════ STACK ═══════════════════════ -->
+- One-click **AI localization for Strapi** — CMS content into Arabic (or another language) without field-by-field translation
+- **n8n project / lead system** — meeting summaries, delivery stages, Trello cards, Slack updates, internal dashboard
+- **Content pipelines** — source link or video → structured blog post → publish to the site
+- Extra automations for product-image workflows and YouTube / TikTok scripts from a brief
 
-## 🛠️ The Arsenal
+---
 
-<div align="center">
+## Education & extras
 
-**Core — used in production every day**
+- **B.Sc. Computer Science** — Modern University for Technology and Information (MTI), Cairo, 2022 · GPA 3.4 / 4.0
+- **Languages** — Arabic (native), English (professional working proficiency)
+- **Military service** — completed
+- **Availability** — full-time, contract, and remote · 1-month notice. Freelance can start sooner.
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-
-**Design → Backend → Deploy**
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-**Automation & AI**
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/AI--Assisted_Dev-00D9FF?style=for-the-badge&logo=githubcopilot&logoColor=black"/> <img src="https://img.shields.io/badge/Webhooks-2C2D72?style=for-the-badge&logo=webhook&logoColor=white"/>
-
-</div>
-
-<!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
-
-## 💼 Where I Build
-
-| | Role | Highlights |
-|:---|:---|:---|
-| 🏢 | **[MitchDesigns](https://www.mitchdesigns.com/)** — Frontend Developer *(Full-time, 2023–now)* | Core frontend dev at one of Egypt's leading web agencies — 15+ live sites for major brands |
-| 🚀 | **Freelance** *(2023–now)* | Full lifecycle ownership: Figma → build → CMS → hosting → launch, for clients in Egypt & abroad |
-
-<!-- ═══════════════════════ STATS ═══════════════════════ -->
-
-## 📊 GitHub Pulse
+---
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=kkareemtarek2014&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00D9FF&ring=FF6B6B&fire=FFA500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" alt="Streak Stats" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kkareemtarek2014&theme=tokyonight" alt="Top Languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kkareemtarek2014&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=8b949e&ring_color=00D9FF" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkareemtarek2014&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=8b949e" alt="Top languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kkareemtarek2014&theme=react-dark&hide_border=true&bg_color=1a1b27&color=00D9FF&line=FF6B6B&point=FFA500&area=true" width="97%" alt="Activity Graph" />
+<br/>
 
-</div>
-
-<!-- ═══════════════════════ WORK ETHIC ═══════════════════════ -->
-
-## 🔥 Built Different: The Work Ethic
-
-> While others clock out, I'm still shipping. The graphs don't lie — code gets written **every day**, at whatever hour the job needs.
-
-<div align="center">
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kkareemtarek2014&theme=tokyonight&utcOffset=2" alt="When I Code" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kkareemtarek2014&theme=tokyonight" alt="Most Commit Language" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=kkareemtarek2014&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" width="97%" alt="Trophies" />
-
-</div>
-
-<!-- ═══════════════════════ HIRE ═══════════════════════ -->
-
-## 🤝 Hiring? Here's Why It's Me
-
-- 🎯 **Proof, not promises** — 21 live production websites you can click right now, built for brands people actually know.
-- ⚡ **Speed with a safety net** — AI-accelerated delivery on top of 3.5+ years of hard-earned frontend depth.
-- 🧩 **One accountable person** — design, frontend, backend, deployment, automation. No hand-offs, no gaps.
-- 📈 **Business-first mindset** — every build targets one goal: make your brand bigger and your business more profitable.
-- 📚 **Never standing still** — I learn something new every day and put it into production the next.
-
-<div align="center">
-
-### Let's build something great.
-
-<a href="https://my-profile.kkareemtarek2.workers.dev/contact"><img src="https://img.shields.io/badge/🚀_Start_a_Project-Get_a_plan,_timeline_&_price-00D9FF?style=for-the-badge&labelColor=1a1b27"/></a>
-<a href="https://wa.me/201090313619"><img src="https://img.shields.io/badge/💬_WhatsApp-+20_109_031_3619-25D366?style=for-the-badge&labelColor=1a1b27"/></a>
-
-*Full-time / part-time: available after a 1-month notice period · Freelance: can start right away*
-
-<img src="https://komarev.com/ghpvc/?username=kkareemtarek2014&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
-
-**build. animate. ship. repeat.**
+[Start a project](https://my-profile.kkareemtarek2.workers.dev/contact) · [WhatsApp +20 109 031 3619](https://wa.me/201090313619) · [kkareemtarek2@gmail.com](mailto:kkareemtarek2@gmail.com)
 
 </div>
